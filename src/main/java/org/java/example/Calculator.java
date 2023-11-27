@@ -2,15 +2,15 @@ package org.java.example;
 
 public class Calculator {
 	
-    public float add(float num1, float num2) {
+    public double add(double num1, double num2) {
         return num1 + num2;
     }
 
-    public float subtract(float num1, float num2) {
+    public double subtract(double num1, double num2) {
         return num1 - num2;
     }
 
-    public float divide(float num1, float num2) throws Exception {
+    public double divide(double num1, double num2) throws Exception {
         if (num2 != 0) {
             return num1 / num2;
         } else {
@@ -18,7 +18,7 @@ public class Calculator {
         }
     }
 
-    public float multiply(float num1, float num2) {
+    public double multiply(double num1, double num2) {
         return num1 * num2;
     }
 
