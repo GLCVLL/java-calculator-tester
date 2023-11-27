@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: org.java.example.CalculatorTest
+Test set: org.java.example.TicketTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.072 s -- in org.java.example.CalculatorTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.012 s -- in org.java.example.TicketTest
